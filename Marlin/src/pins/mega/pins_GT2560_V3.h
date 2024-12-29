@@ -164,7 +164,7 @@
 //
 // LCD Controller
 //
-#define BEEPER_PIN                            18
+#define BEEPER_PIN                            -1
 
 #if ENABLED(YHCB2004)
   #ifndef YHCB2004_MOSI_PIN
